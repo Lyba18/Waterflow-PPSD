@@ -26,7 +26,7 @@ All the units developed in the implementation phase are integrated into a system
  Once the functional and non-functional testing is done; the product is deployed in the customer environment or released into the market.    
 
 **Maintenance**     
- There are some issues which come up in the client environment. To fix those issues, patches are released. Also to enhance the product some better versions are released. Maintenance is done to deliver these changes in the customer environment.      
+ There are some issues which come up in the client environment. To fix those issues,it realeases chunks of code like patches. Also to enhance the product some better versions are released. Maintenance is done to deliver these changes in the customer environment.      
 ## Waterfall Model Pros    
 Some of the major advantages of the Waterfall Model are as follows −
 - Simple and easy to understand and use
